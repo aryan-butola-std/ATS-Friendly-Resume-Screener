@@ -1,0 +1,33 @@
+DATA ENGINEER POSITION
+
+Company: TechCorp Analytics
+Location: Mumbai, India
+Experience: 3-5 years
+
+REQUIRED SKILLS:
+- Python
+- SQL
+- Apache Spark
+- Hadoop
+- Kafka
+- AWS or Azure
+- MongoDB or Cassandra
+- Docker
+- Kubernetes
+- ETL pipelines
+
+PREFERRED SKILLS:
+- Machine Learning
+- Tableau
+- PostgreSQL
+- Git
+
+RESPONSIBILITIES:
+- Build data pipelines using Spark
+- Work with Hadoop ecosystem
+- Real-time streaming with Kafka
+- Deploy on cloud platforms
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 3-5 years experience in data engineering
