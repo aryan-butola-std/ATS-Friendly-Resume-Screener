@@ -121,14 +121,16 @@ would receive a match score based on the number of required skills found.
 PySpark is used to create and sort the candidate dataset by match percentage.
 
 Example:
+Candidate Ranking
+────────────────────────────────────────────────────────
+Resume              Matched Skills    Match %
+────────────────────────────────────────────────────────
+candidate1.pdf      5                  100.00%
+candidate2.pdf      4                   80.00%
+candidate3.pdf      3                   60.00%
+candidate4.pdf      2                   40.00%
+────────────────────────────────────────────────────────
 
-+----------------+--------------+----------------+
-| Resume         | Matched      | Match %        |
-+----------------+--------------+----------------+
-| candidate1.pdf | 5            | 100.00         |
-| candidate2.pdf | 4            | 80.00          |
-| candidate3.pdf | 3            | 60.00          |
-+----------------+--------------+----------------+
 6. Export Results
 
 The final results are saved as:
